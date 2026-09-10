@@ -17,3 +17,12 @@ Click any badge below to launch the notebook directly in Google Colab:
 | **LSTM Project** | Predicts daily stock prices from historical market data by training a multi-layer LSTM neural network on sequential 60-day price trends. | [![Open]()](https://github.com/kpraneeth-526/AI_Folder/blob/9dfa38748355fdb1db988381d59c5b04df0f8218/RNN%20with%20LSTM.ipynb) |
 | **DNN Project** | A deep neural network regression pipeline built with TensorFlow/Keras to predict used car prices from tabular data, featuring feature encoding, standardization, and dense architectures. | [![Open]()](https://github.com/kpraneeth-526/AI_Folder/blob/6873659a02dc8a0c5b44498480d6fc5c86eab182/DNN_Project.ipynb) |
 | **Dimensionality Reduction (PCA & LDA)** |Demonstrates how to use PCA and LDA for reducing feature dimensions and boosting classifier performance on standard benchmark datasets using Scikit-Learn. | [![Open ]()](https://github.com/kpraneeth-526/AI_Folder/blob/9dfa38748355fdb1db988381d59c5b04df0f8218/Dimensionality_Reduction%20-%20PCA%2C%20LDA.ipynb) |
+| **ML Classification Project** |Uses student performance data and machine learning classification techniques to predict which of two Portuguese schools a student attends based on factors such as grades, internet access, and location. | [![Open ]()](https://github.com/kpraneeth-526/AI_Folder/blob/9dfa38748355fdb1db988381d59c5b04df0f8218/Dimensionality_Reduction%20-%20PCA%2C%20LDA.ipynb) |
+| **Regression Project** |Linear Regression, K-Nearest Neighbors (KNN) Regression, Random Forest Regression, Support Vector Regression (SVM/SVR), and Decision Tree Regression—to predict a country's 2018 birth rate from demographic and economic factors. | [![Open ]()](https://github.com/kpraneeth-526/AI_Folder/blob/9dfa38748355fdb1db988381d59c5b04df0f8218/Dimensionality_Reduction%20-%20PCA%2C%20LDA.ipynb) |
+| **K-Means Project** |Uses K-Means and Hierarchical (Agglomerative) Clustering to group Instagram accounts into clusters based on account characteristics and determine whether the accounts are likely fake or real. | [![Open ]()](https://github.com/kpraneeth-526/AI_Folder/blob/9dfa38748355fdb1db988381d59c5b04df0f8218/Dimensionality_Reduction%20-%20PCA%2C%20LDA.ipynb) |
+
+
+
+
+
+
